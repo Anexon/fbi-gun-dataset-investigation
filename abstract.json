@@ -1,5 +1,5 @@
 {
-    "project_name": "Exploración de Dataset del FBI sobre comprobaciones de armas de fuego.",
+    "project_name": "Exploración de Dataset del FBI sobre comprobaciones de armas de fuego",
     "tags": ["Python", "Pandas", "Matplotlib", "Numpy", "Jupyter", "Data Wrangling"],
     "description": "Notebook realizado en el que se realiza una exploración en un dataset del FBI sobre las comprobaciones realizadas sobre armas de fuego junto al censo de población en el año 2016. Este proyecto se ha realizado como trabajo del nanodegree de Udacity en DataAnalyst",
     "live_demo_url": "https://github.com/Anexon/fbi-gun-dataset-investigation/blob/master/FBI_gun_dataset_Investigation.ipynb",
